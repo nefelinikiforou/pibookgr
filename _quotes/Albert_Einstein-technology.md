@@ -1,5 +1,5 @@
 ---
-title: Albert_Einstein-learning
+title: Albert_Einstein-technology
 text: 'Έχει γίνει τρομακτικά προφανές ότι η τεχνολογία μας έχει υπερβεί την ανθρωπιά μας.'
 person: Άλμπερτ Αϊνστάιν
 layout: quote

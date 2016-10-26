@@ -1,6 +1,6 @@
 ---
 title: Benjamin_Franklin-learning
-text: 'Tell me and I forget. Teach me and I remember. Involve me and I learn.'
+text: 'Μου λέτε και εγώ ξεχνώ. Διδάξτε με και εγώ θυμάμαι. Εμπλέξετέ με και εγώ μαθαίνω.'
 person: Βενιαμίν Φραγκλίνος
 layout: quote
 header: no
